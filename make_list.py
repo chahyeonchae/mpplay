@@ -39,7 +39,7 @@ def generate_playlist():
                 "id": index + 1,
                 "title": title.strip(),
                 "artist": artist.strip(),
-                "url": f"/music/{cat}/{filename}",
+                "url": f"../music/{cat}/{filename}",
                 "cover": "img/default.jpg"
             }
             playlist.append(song_info)
