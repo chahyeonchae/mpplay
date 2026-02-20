@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "title": "Blackboard of My Heart",
+        "artist": "Artist",
+        "url": "music/old/Blackboard of My Heart.mp3",
+        "cover": "img/default.jpg"
+    },
+    {
+        "id": 2,
+        "title": "Every Moment Of Every Hour",
+        "artist": "Artist",
+        "url": "music/old/Every Moment Of Every Hour.mp3",
+        "cover": "img/default.jpg"
+    },
+    {
+        "id": 3,
+        "title": "Mary Duff-Just Lovin' You",
+        "artist": "Artist",
+        "url": "music/old/Mary Duff-Just Lovin' You.mp3",
+        "cover": "img/default.jpg"
+    },
+    {
+        "id": 4,
+        "title": "Mary Duff-Power Of Love",
+        "artist": "Artist",
+        "url": "music/old/Mary Duff-Power Of Love.mp3",
+        "cover": "img/default.jpg"
+    },
+    {
+        "id": 5,
+        "title": "Only Yesterday",
+        "artist": "Artist",
+        "url": "music/old/Only Yesterday.mp3",
+        "cover": "img/default.jpg"
+    },
+    {
+        "id": 6,
+        "title": "Pretty Little Girl From Omagh",
+        "artist": "Artist",
+        "url": "music/old/Pretty Little Girl From Omagh.mp3",
+        "cover": "img/default.jpg"
+    }
+]

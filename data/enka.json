@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "title": "이성애-단장의미아리고개",
+        "artist": "Artist",
+        "url": "music/enka/이성애-단장의미아리고개.mp3",
+        "cover": "img/default.jpg"
+    },
+    {
+        "id": 2,
+        "title": "이성애-돌아와요부산항에",
+        "artist": "Artist",
+        "url": "music/enka/이성애-돌아와요부산항에.mp3",
+        "cover": "img/default.jpg"
+    },
+    {
+        "id": 3,
+        "title": "이성애-물방아도는내력",
+        "artist": "Artist",
+        "url": "music/enka/이성애-물방아도는내력.mp3",
+        "cover": "img/default.jpg"
+    }
+]

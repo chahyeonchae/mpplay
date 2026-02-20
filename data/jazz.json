@@ -1,0 +1,16 @@
+[
+    {
+        "id": 1,
+        "title": "금잔디-안동역에서",
+        "artist": "Artist",
+        "url": "music/jazz/금잔디-안동역에서.mp3",
+        "cover": "img/default.jpg"
+    },
+    {
+        "id": 2,
+        "title": "금잔디-일편단심",
+        "artist": "Artist",
+        "url": "music/jazz/금잔디-일편단심.mp3",
+        "cover": "img/default.jpg"
+    }
+]
