@@ -39,7 +39,14 @@ def generate_playlist():
                 "id": index + 1,
                 "title": title.strip(),
                 "artist": artist.strip(),
-                "url": f"../music/{cat}/{filename}",
+                song_info = {
+                "id": index + 1,
+                "title": title.strip(),
+                "artist": artist.strip(),
+                # 아래 부분을 본인의 도메인 주소를 포함한 전체 경로로 바꿉니다.
+                "url": f"https://mpplay.store/music/{cat}/{filename}",
+                "cover": "img/default.jpg"
+            }
                 "cover": "img/default.jpg"
             }
             playlist.append(song_info)
