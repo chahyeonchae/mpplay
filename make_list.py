@@ -5,7 +5,7 @@ def generate_playlist():
     base_dir = './music'
     # 결과물을 js 폴더나 플레이어가 읽는 위치에 'songs.js' 같은 이름으로 저장합니다.
     output_file = './playlist_data.js' 
-    valid_exts = ('.mp3', '.ogg', '.wav', '.m4a')
+    valid_exts = ('.mp3', '.ogg', '.wav', '.flac')
 
     if not os.path.exists(base_dir):
         print(f"❌ 폴더 없음: {base_dir}")
